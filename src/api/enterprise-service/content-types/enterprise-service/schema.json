@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "enterprise_services",
+  "info": {
+    "singularName": "enterprise-service",
+    "pluralName": "enterprise-services",
+    "displayName": "EnterpriseService",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "subHeader": {
+      "type": "string"
+    },
+    "header2": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    },
+    "header3": {
+      "type": "string"
+    },
+    "header4": {
+      "type": "string"
+    },
+    "list2": {
+      "type": "json"
+    },
+    "body2": {
+      "type": "text"
+    },
+    "subBody": {
+      "type": "string"
+    },
+    "leftList": {
+      "type": "json"
+    },
+    "list1": {
+      "type": "json"
+    }
+  }
+}

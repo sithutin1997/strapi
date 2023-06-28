@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "get_in_touch_pages",
+  "info": {
+    "singularName": "get-in-touch-page",
+    "pluralName": "get-in-touch-pages",
+    "displayName": "GetInTouchPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    },
+    "find": {
+      "type": "text"
+    }
+  }
+}

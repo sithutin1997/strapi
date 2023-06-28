@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "it_services",
+  "info": {
+    "singularName": "it-service",
+    "pluralName": "it-services",
+    "displayName": "ItService"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "subHeader": {
+      "type": "string"
+    },
+    "header2": {
+      "type": "string"
+    },
+    "leftList1": {
+      "type": "json"
+    },
+    "leftList2": {
+      "type": "json"
+    },
+    "leftList3": {
+      "type": "json"
+    },
+    "rightList1": {
+      "type": "json"
+    },
+    "rightList2": {
+      "type": "json"
+    }
+  }
+}

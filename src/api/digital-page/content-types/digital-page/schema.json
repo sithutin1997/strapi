@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "digital_pages",
+  "info": {
+    "singularName": "digital-page",
+    "pluralName": "digital-pages",
+    "displayName": "DigitalService",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "subHeader": {
+      "type": "string"
+    },
+    "header2": {
+      "type": "string"
+    },
+    "body": {
+      "type": "json"
+    },
+    "list1": {
+      "type": "json"
+    },
+    "list2": {
+      "type": "json"
+    },
+    "list3": {
+      "type": "json"
+    }
+  }
+}
