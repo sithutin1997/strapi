@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "detail_headers",
+  "info": {
+    "singularName": "detail-header",
+    "pluralName": "detail-headers",
+    "displayName": "DetailHeader"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "detailHeader": {
+      "type": "json"
+    }
+  }
+}

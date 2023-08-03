@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "right_bodies",
+  "info": {
+    "singularName": "right-body",
+    "pluralName": "right-bodies",
+    "displayName": "RightBody"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "custom": {
+      "type": "json"
+    },
+    "digital": {
+      "type": "json"
+    },
+    "cx": {
+      "type": "json"
+    },
+    "iot": {
+      "type": "json"
+    },
+    "cyber": {
+      "type": "json"
+    },
+    "it": {
+      "type": "json"
+    },
+    "enterprise": {
+      "type": "json"
+    },
+    "diet": {
+      "type": "json"
+    }
+  }
+}

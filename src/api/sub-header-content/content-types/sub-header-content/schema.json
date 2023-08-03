@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sub_header_contents",
+  "info": {
+    "singularName": "sub-header-content",
+    "pluralName": "sub-header-contents",
+    "displayName": "SubHeaderContent"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "subHeaderContent": {
+      "type": "json"
+    }
+  }
+}

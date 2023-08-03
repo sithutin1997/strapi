@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cyber_left_bodies",
+  "info": {
+    "singularName": "cyber-left-body",
+    "pluralName": "cyber-left-bodies",
+    "displayName": "CyberLeftBody"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "body": {
+      "type": "text"
+    },
+    "cyberList": {
+      "type": "json"
+    }
+  }
+}

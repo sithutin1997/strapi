@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "it_left_bodies",
+  "info": {
+    "singularName": "it-left-body",
+    "pluralName": "it-left-bodies",
+    "displayName": "ItLeftBody"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header1": {
+      "type": "string"
+    },
+    "listNumber1": {
+      "type": "string"
+    },
+    "body1": {
+      "type": "string"
+    },
+    "body2": {
+      "type": "text"
+    },
+    "body3": {
+      "type": "string"
+    },
+    "header2": {
+      "type": "string"
+    },
+    "header3": {
+      "type": "string"
+    },
+    "listNumber2": {
+      "type": "string"
+    },
+    "listNumber3": {
+      "type": "string"
+    }
+  }
+}

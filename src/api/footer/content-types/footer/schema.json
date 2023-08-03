@@ -17,6 +17,9 @@
     },
     "contact": {
       "type": "json"
+    },
+    "services2": {
+      "type": "json"
     }
   }
 }

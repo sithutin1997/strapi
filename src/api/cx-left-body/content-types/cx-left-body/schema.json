@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cx_left_bodies",
+  "info": {
+    "singularName": "cx-left-body",
+    "pluralName": "cx-left-bodies",
+    "displayName": "CxLeftBody"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "body": {
+      "type": "text"
+    },
+    "cxList": {
+      "type": "json"
+    }
+  }
+}
